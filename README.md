@@ -1,5 +1,7 @@
 PerWorldInventory
 =================
+
+[![Join the chat at https://gitter.im/ExileDev/PerWorldInventory](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ExileDev/PerWorldInventory?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Made by Gnat008, for Spigot 1.8+
 Version: 1.5.4
 
